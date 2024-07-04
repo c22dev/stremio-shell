@@ -1,0 +1,10 @@
+/Users/cclerc/stremio-shell/CMakeFiles/stremio.dir
+/Users/cclerc/stremio-shell/CMakeFiles/edit_cache.dir
+/Users/cclerc/stremio-shell/CMakeFiles/rebuild_cache.dir
+/Users/cclerc/stremio-shell/CMakeFiles/stremio_autogen_timestamp_deps.dir
+/Users/cclerc/stremio-shell/CMakeFiles/stremio_autogen.dir
+/Users/cclerc/stremio-shell/deps/singleapplication/CMakeFiles/SingleApplication.dir
+/Users/cclerc/stremio-shell/deps/singleapplication/CMakeFiles/edit_cache.dir
+/Users/cclerc/stremio-shell/deps/singleapplication/CMakeFiles/rebuild_cache.dir
+/Users/cclerc/stremio-shell/deps/singleapplication/CMakeFiles/SingleApplication_autogen_timestamp_deps.dir
+/Users/cclerc/stremio-shell/deps/singleapplication/CMakeFiles/SingleApplication_autogen.dir
