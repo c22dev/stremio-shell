@@ -2,12 +2,9 @@
 This is a build of Stremio for Apple Silicon Macs. If you have an M-Series Mac, you should consider using this to get better performances, speed and launching time.
 
 ## Installation
-You need to install [Brew](https://brew.sh), and run the following commands:
+You need to install [Brew](https://brew.sh), and run the following command:
 ```
-brew install mpv ffmpeg node cmake qt@5
-brew install openssl
-brew link openssl --force
-brew link qt5 --force
+brew install mpv ffmpeg node cmake qt@5 openssl
 ```
 Then, download the .dmg file in the Release section!
 **Note** : to build this yourself, you also need the above dependencies. The Makefiles should already be edited; follow the tutorial bellow.
