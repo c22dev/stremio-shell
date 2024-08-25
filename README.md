@@ -1,3 +1,14 @@
+## Installation
+This is a build of Stremio for Apple Silicon Mac. You need to install [Bre](https://brew.sh), and run the following commands:
+```
+brew install mpv ffmpeg node cmake qt@5
+brew install openssl
+brew link openssl --force
+brew link qt5 --force
+```
+Then, download the .dmg file in the Release section!
+
+
 ## Build
 
 ### Build instructions for Mac OS X
