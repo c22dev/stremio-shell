@@ -12,13 +12,13 @@ brew link qt5 --force
 Then, download the .dmg file in the Release section!
 **Note** : to build this yourself, you also need the above dependencies. The Makefiles should already be edited; follow the tutorial bellow.
 
-# Original Stremio-shell Readme
+# Stremio-shell Readme (original with edited instructions)
 ## Build
 
 ### Build instructions for Mac OS X
 
-1. Make sure you have Qt 5.10.x or newer and Qt Creator
-2. Open the project in Qt creator
+1. Make sure you have Qt 5.10.x or newer (and Qt Creator, optional) (follow the brew deps above)
+_2. Open the project in Qt creator_ (optional)
 3. build it
 
 #### Command line to build:
